@@ -3,7 +3,7 @@
   <h3>🛡️ Ciberseguridad · 💻 Soporte IT · 🌐 Redes · 🐧 Linux</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=ka0tick&label=Visitas&color=f0db4f&style=flat-square" alt="Visitas al perfil"/>
+    <img src="https://profile-counter.glitch.me/ka0tick/count.svg" alt="Visitas al perfil"/>
     <img src="https://img.shields.io/github/followers/ka0tick?label=Seguidores&style=flat-square&color=f0db4f" alt="Seguidores"/>
     <img src="https://img.shields.io/github/stars/ka0tick?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas"/>
   </p>
@@ -22,14 +22,14 @@ Estoy desarrollando mis conocimientos mediante formación técnica, laboratorios
 
 Actualmente estoy practicando:
 
-- 🔎 Reconocimiento y enumeración
-- 🌐 Web Fuzzing
-- 🐧 Linux
-- 🔐 SSH
-- 🛠️ Metasploit
-- 🐳 DockerLabs
-- 🧪 Máquinas vulnerables
-- 📖 Write-ups
+* 🔎 Reconocimiento y enumeración
+* 🌐 Web Fuzzing
+* 🐧 Linux
+* 🔐 SSH
+* 🛠️ Metasploit
+* 🐳 DockerLabs
+* 🧪 Máquinas vulnerables
+* 📖 Write-ups
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
@@ -39,7 +39,7 @@ Estoy realizando máquinas de DockerLabs para practicar metodologías de pentest
 
 👉 [**Ver mis máquinas y write-ups**](https://github.com/Ka0tick/Dockerlabs-Machines)
 
-<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db2e00,#0e1b2e00);margin:16px 0;"/>
 
 ### 🛠️ Tecnologías y herramientas
 
@@ -66,12 +66,12 @@ Estoy realizando máquinas de DockerLabs para practicar metodologías de pentest
 
 ### 📂 Proyectos
 
-| Proyecto | Descripción |
-|---|---|
+| Proyecto                                                        | Descripción                      |
+| --------------------------------------------------------------- | -------------------------------- |
 | 🐳 [DockerLabs](https://github.com/Ka0tick/Dockerlabs-Machines) | Máquinas vulnerables y write-ups |
-| 🌐 Redes | Prácticas de networking |
-| 🐧 Linux | Laboratorios y administración |
-| 🔐 Cybersecurity | Prácticas de seguridad |
+| 🌐 Redes                                                        | Prácticas de networking          |
+| 🐧 Linux                                                        | Laboratorios y administración    |
+| 🔐 Cybersecurity                                                | Prácticas de seguridad           |
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
