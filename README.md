@@ -78,10 +78,7 @@ Estoy realizando máquinas de DockerLabs para practicar metodologías de pentest
 ### 📈 Actividad en GitHub
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ka0tick&theme=tokyo-night&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits"
-    alt="Gráfico de actividad de commits"
-  />
+  <img src="https://ghchart.rshah.org/f0db4f/Ka0tick" alt="Contribuciones de GitHub"/>
 </div>
 
 ### 🌐 Contacto y redes
